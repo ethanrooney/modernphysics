@@ -1,0 +1,37 @@
+#
+#   ExoFAST Priors Parameter File
+#
+#   Title: hatp36b-20160511-mcmc
+#
+vel=null
+velErr=null
+slope=0.0
+slopeErr=null
+trans=2455565.1814
+transErr=null
+per=1.327347
+perErr=null
+eccen=0.063
+eccenErr=null
+longPer=95
+longPerErr=null
+amp=null
+ampErr=null
+incl=86
+inclErr=null
+rad=0.1186
+radErr=null
+axis=4.66
+axisErr=null
+grav=4.416
+gravErr=0.01
+temp=5620
+tempErr=40
+metal=0.26
+metalErr=0.08
+lCoeff=null
+lCoeffErr=null
+qCoeff=null
+qCoeffErr=null
+flux=null
+fluxErr=null

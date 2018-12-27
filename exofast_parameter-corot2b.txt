@@ -1,0 +1,37 @@
+#
+#   ExoFAST Priors Parameter File
+#
+#   Title: EXOFAST
+#
+vel=null
+velErr=null
+slope=0.0
+slopeErr=null
+trans=2454237.5356
+transErr=null
+per=1.7429935
+perErr=null
+eccen=0.0143
+eccenErr=null
+longPer=102
+longPerErr=null
+amp=603
+ampErr=null
+incl=88.08
+inclErr=null
+rad=0.1674
+radErr=null
+axis=null
+axisErr=null
+grav=4.5
+gravErr=null
+temp=5625
+tempErr=120.000000
+metal=-0.04
+metalErr=0.08
+lCoeff=null
+lCoeffErr=null
+qCoeff=null
+qCoeffErr=null
+flux=null
+fluxErr=null
